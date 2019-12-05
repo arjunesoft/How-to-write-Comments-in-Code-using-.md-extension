@@ -166,11 +166,10 @@ Note : This is also a Image but written in different way.
 
 <!-- Tables -->
 
-|   Name   |          Email           |
-| :------: | :----------------------: |
-|  Arjun   | arjun16shinde@gmail.com  |
-|  Vinod   | vinodshinde877@gmail.com |
-| Sangeeta | sangeetashinde@gmail.com |
+|    Name     |          Email          |
+| :---------: | :---------------------: |
+| EasoftLabs  | arjun16shinde@gmail.com |
+| EasoftIndia | arjun16shinde@gmail.com |
 
 Note : This is a table & Colons are be used to center align columns.
 
