@@ -1,4 +1,4 @@
-<!-- Headings -->
+								<!-- Headings -->
 
 # Heading 1
 
@@ -16,7 +16,7 @@
 
 ---
 
-<!-- Italic -->
+                                                          <!-- Italic -->
 
 _This Text_ is italic
 
@@ -24,7 +24,7 @@ _This Text_ is italic
 
 ---
 
-<!-- Strong -->
+                                                          <!-- Strong -->
 
 **This text** is strong
 
@@ -32,7 +32,7 @@ _This Text_ is italic
 
 ---
 
-<!-- StrikeThrough -->
+							<!-- StrikeThrough -->
 
 ~~This text~~ is Strikethrough
 
@@ -40,7 +40,7 @@ _This Text_ is italic
 
 ---
 
-<!-- Line Break (New Line) -->
+							<!-- Line Break (New Line) -->
 
 My basic recommendation for learning how line breaks work is to experiment and discover -- hit <Enter> once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens.
 
@@ -48,7 +48,7 @@ My basic recommendation for learning how line breaks work is to experiment and d
 
 ---
 
-<!-- Horizontal Rule -->
+							<!-- Horizontal Rule -->
 
 To draw a horizontal line just Keypress minus symbol 3 times or underscore 3 times
 
@@ -56,7 +56,7 @@ To draw a horizontal line just Keypress minus symbol 3 times or underscore 3 tim
 
 ---
 
-<!-- Blockquote -->
+							<!-- Blockquote -->
 
 > This is a random text.
 
@@ -68,7 +68,7 @@ To draw a horizontal line just Keypress minus symbol 3 times or underscore 3 tim
 
 ---
 
-<!-- Links -->
+							<!-- Links -->
 
 This is a link for [Google](http://www.google.com)
 
@@ -78,7 +78,7 @@ This is another link with title for [Google](http://www.google.com "I am a title
 
 ---
 
-<!-- Unordered List (UL) -->
+							<!-- Unordered List (UL) -->
 
 - Item 1
 - Item 2
@@ -94,7 +94,7 @@ This is another link with title for [Google](http://www.google.com "I am a title
 
 ---
 
-<!-- Orderd List (OL) -->
+							<!-- Orderd List (OL) -->
 
 1. Item 1
 2. Item 2
@@ -104,7 +104,7 @@ This is another link with title for [Google](http://www.google.com "I am a title
 
 ---
 
-<!-- Inline Code Block and Syntax Highlighting -->
+					<!-- Inline Code Block and Syntax Highlighting -->
 
 This is Inline `code` has `back-ticks around` it. It is used to `hightlight` some specific `code` or word like `npm install`.
 
@@ -112,7 +112,7 @@ This is Inline `code` has `back-ticks around` it. It is used to `hightlight` som
 
 ---
 
-<!-- Code Block and Syntax Highlighting -->
+					<!-- Code Block and Syntax Highlighting -->
 
 ```bash
 npm install
@@ -148,7 +148,7 @@ function add(num1, num2) {
 
 ---
 
-<!-- Images -->
+							<!-- Images -->
 
 ![Markdown Image Logo](https://markdown-here.com/img/icon256.png "This is a Image")
 
@@ -164,7 +164,7 @@ Note : This is also a Image but written in different way.
 
 ---
 
-<!-- Tables -->
+							<!-- Tables -->
 
 |    Name     |          Email          |
 | :---------: | :---------------------: |
@@ -177,8 +177,12 @@ Note : This is a table & Colons are be used to center align columns.
 
 ---
 
-<!-- Task lists -->
+						<!-- Task Completion Checkboxes -->
 
 - [x] Task 1 is completed
 - [x] Task 2 is completed
-- [ ] task 3 is incomplete! complete it now
+- [ ] Task 3 is incomplete! complete it now
+- [ ] Task 4 is also incomplete
+- [x] Task 5 is completed successfully
+
+
