@@ -177,8 +177,12 @@ Note : This is a table & Colons are be used to center align columns.
 
 ---
 
-<!-- Task lists -->
+<!-- Task Completion Checkboxes -->
 
 - [x] Task 1 is completed
 - [x] Task 2 is completed
-- [ ] task 3 is incomplete! complete it now
+- [ ] Task 3 is incomplete! complete it now
+- [ ] Task 4 is also incomplete
+- [x] Task 5 is completed successfully
+
+> **`Important Precaution` :** Before using Task Completion Checkboxes `download` one `extension` in Visual Studio Code named as `Markdown Checkboxes` by `Matt Bierner`. Then only checkboxes will able to work and get displayed in preview section.
